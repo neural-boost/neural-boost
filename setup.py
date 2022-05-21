@@ -8,10 +8,10 @@ class BinaryDistribution(Distribution):
 
 setup(
     name = 'neural-boost',
-    version = '0.0.5',
+    version = '0.0.4',
     keywords='inference, machine learning, x86, x86_64, avx512, neural network,',
-    description = 'Neural Boost targeting to boost inference performance.',
-    long_description = 'Neural Boost targeting to boost inference performance.',
+    description = 'Neural Booster targeting to boost inference performance.',
+    long_description = 'Neural Booster targeting to boost inference performance.',
     license = 'Apache 2.0',
     url = 'https://github.com/neural-boost/neural-boost',
     author = 'Neural Boost',

@@ -1,7 +1,6 @@
-<h1 align="center"> Neural Booster </h1>
+<h1 align="center"> Neural Boost </h1>
 
 # Introduction
 
-Neural Booster targeting to boost inference performance.
-
+Neural Boost targeting to boost inference performance.
 

@@ -1,6 +1,6 @@
 #/bin/bash
 
-yum install vim git cmake make numactl gcc-8.5.0 gcc-c++-8.5.0 -y
+sudo yum install vim git cmake make numactl gcc-8.5.0 gcc-c++-8.5.0 -y
 
 pip3 install virtualenv==16.7.7
 
