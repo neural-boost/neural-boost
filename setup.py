@@ -8,7 +8,7 @@ class BinaryDistribution(Distribution):
 
 setup(
     name = 'neural-boost',
-    version = '0.0.4',
+    version = '0.0.5',
     keywords='inference, machine learning, x86, x86_64, avx512, neural network,',
     description = 'Neural Booster targeting to boost inference performance.',
     long_description = 'Neural Booster targeting to boost inference performance.',
